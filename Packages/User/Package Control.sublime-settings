@@ -1,0 +1,36 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"4GL",
+		"Alignment",
+		"All Autocomplete",
+		"Bower",
+		"CSS Snippets",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Grunt",
+		"Inc-Dec-Value",
+		"IndentGuides",
+		"jQuery",
+		"LiveReload",
+		"Package Control",
+		"Prefixr",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"Solarized Color Scheme",
+		"Sublime-HTMLPrettify",
+		"SublimeGit",
+		"SublimeLinter",
+		"Syntax Highlighting for Sass",
+		"Tag",
+		"Terminal",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
+		"TrailingSpaces",
+		"W3CValidators"
+	]
+}

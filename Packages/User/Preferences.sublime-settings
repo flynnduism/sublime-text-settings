@@ -1,0 +1,36 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
+	"detect_indentation": false,
+	"draw_indent_guides": true,
+	"draw_white_space": "selection",
+	"fade_fold_buttons": false,
+	"font_face": "DejaVu Sans Mono",
+	"font_size": 17.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Tag",
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 2,
+	"open_files_in_new_window": false,
+	"preview_on_click": false,
+	"remember_open_files": true,
+	"remember_open_folders": true,
+	"scroll_past_end": true,
+	"scroll_speed": 2,
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"use_simple_full_screen": true,
+	"wide_caret": true,
+	"word_wrap": true,
+	"wrap_width": "auto"
+}
